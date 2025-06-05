@@ -5,7 +5,7 @@ Brief description:
 
 ·"Lattice_Non_Uniform_Prob.py" generates networks with and without connectivity gradient,
 --recall that "pebble.py"  
-(https://github.com/coldlaugh/pebblegame-algorithm/blob/master/pebble.pyx.) and "lattice.py" are needed for this file to run. 
+(https://github.com/coldlaugh/pebble-game-algorithm/blob/master/pebble.pyx) and "lattice.py" are needed for this file to run. 
 
 ·The scripts "Generate_random_tiling_Mono_exact.py" and "Run_tiling_Rand_2D_exact.py" 
 create the cell tilings to be read for the surface evolver software 
